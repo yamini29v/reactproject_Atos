@@ -1,0 +1,18 @@
+.login
+{
+    align-items: center;
+    padding: 20% 20% 20% 20%;
+    
+}
+.box{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.textfiled{
+    width: 2px;
+}
+.btn-you{
+    background: darkblue;
+    color: whitesmoke;
+}
